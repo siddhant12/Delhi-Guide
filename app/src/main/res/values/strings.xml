@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Delhi Guide</string>
+
+    <string name="category_sights">Sights</string>
+    <string name="category_info">Info</string>
+    <string name="category_shops">Markets</string>
+    <string name="category_food">Food</string>
+
+    <string name="food_cafeomg_name">Cafe OMG</string>
+    <string name="food_cafeomg_description">The place has been rightly named, because the interiors, the food and the concoctions will seriously make you go "OMG!" </string>
+    <string name="food_cafeomg_address">14-15, 2nd Floor, Block F, Inner Circle, Connaught Place</string>
+    <string name="food_cafeomg_schedule">Mon-Sun 11:00-22:00</string>
+    <string name="food_cafeomg_price">Meal for 2:₹1800 (with alcohol)</string>
+    <string name="food_cafeomg_phone">3878979847</string>
+
+
+    <string name="food_dimcha_name">Dimcha</string>
+    <string name="food_dimcha_description">If you love Asian and Thai cuisines, this is the place for you. And what\'s more, you can enjoy your food with friends at their rooftop seating area. </string>
+    <string name="food_dimcha_address">Upper Ground Floor, Epicuria Food Mall, Nehru Place Metro Station, Nehru Place</string>
+    <string name="food_dimcha_schedule">Mon-Sun 11:00-22:00</string>
+    <string name="food_dimcha_price">Meal for 2: ₹1500</string>
+    <string name="food_dimcha_phone">434343</string>
+
+
+    <string name="food_bqc_name">The Barbeque Company</string>
+    <string name="food_bqc_description">Who doesn\'t love barbeque? Experience the sizzling delicacies served here and get lost in food heaven.</string>
+    <string name="food_bqc_address">4, Hargovind Enclave, Opposite Shanti Mukund Hospital, Karkardooma</string>
+    <string name="food_bqc_schedule">Mon-Sun 11:00-22:00</string>
+    <string name="food_bqc_price">Meal for 2: ₹1300</string>
+    <string name="food_bqc_phone">2323244</string>
+
+
+    <string name="food_gdb_name">Garam Dharam</string>
+    <string name="food_gdb_description">Named after and inspired by our very Punjabi Jatt Dharmendra, this place has filmy interiors and serves authentic Punjabi food. Yum! </string>
+    <string name="food_gdb_address">J-2/12, BK Dutt Market, Rajouri Garden</string>
+    <string name="food_gdb_schedule">Mon-Sun 11:00-22:00</string>
+    <string name="food_gdb_price">Meal for 2: ₹1200</string>
+    <string name="food_gdb_phone">3234322</string>
+
+    <string name="food_52_name">52 Janpath</string>
+    <string name="food_52_description">Rustic interiors, innovative international cuisine and soulful music - this place is perfect for spending time alone or even with friends and family. </string>
+    <string name="food_52_address">52, Janpath</string>
+    <string name="food_52_schedule">Mon-Sun 11:00-22:00</string>
+    <string name="food_52_price">Meal for 2: ₹1550</string>
+    <string name="food_52_phone">34834784</string>
+    
+    <string name="shop_dh_name">Delhi Haat</string>
+    <string name="shop_dh_description">Delhi Haat is an open air market with various food stalls, handloom stalls , cultural activities and traditions. Normally you will see the same craftsman stalls for 15 days as they are kept on rotational basis for a maximum of 15 days.Some of the products which can be found at Delhi Haat are gems, beads, footwears, handicrafts etc. </string>
+    <string name="shop_dh_address">Pitampura and INA</string>
+    <string name="shop_dh_schedule">Mon-Sun 11:00-22:00</string>
+
+
+    <string name="shop_se_name">South Extension</string>
+    <string name="shop_se_description"> This market has numerous shops with all the leading Indian and International brands you could think of. It is a perfect place for shopoholics who have their pockets full. This market is closed on mondays.</string>
+    <string name="shop_se_address">South Extenstion – I and South Extension – II</string>
+    <string name="shop_se_schedule">Tue-Sun 11:00-22:00</string>
+
+    <string name="shop_km_name">Khan Market</string>
+    <string name="shop_km_description">Khan Market was built on the name of Khan Abdul Jabbar Khan. Khan Market is one of the most expensive markets in the World on the basis of its Retail Values and costliest in India. It is basically for the elite classes of Delhi and other Tourists. This market may give you all at a single place like Ethnic Apparels, Home Appliances, Sports Goods.</string>
+    <string name="shop_km_address">46, Khan Market Rd, Rabindra Nagar, New Delhi, Delhi 110003</string>
+    <string name="shop_km_schedule">Mon-Sun 10:00-22:00</string>
+
+    <string name="shop_cc_name">Chandni Chowk</string>
+    <string name="shop_cc_description">Chandni Chowk is the most popular and old markets of Delhi. It is a very crowded market with all type of colours in it. Katra Neel market offers all kinds of fabrics such as silks, satin, crepe, cotton and muslin. Bhagirath Palace is Asia’s largest market for electrical goods. This market also offers medical equipment and allopathic medicines. Spice lovers must visit Khari Baoli.</string>
+    <string name="shop_cc_address">Chandni Chowk</string>
+    <string name="shop_cc_schedule">Mon-Sun 10:00-22:00</string>
+    
+    <string name="shop_cp_name">Cannaught Place</string>
+    <string name="shop_cp_description">Connaught Place also known as CP is a posh and popular market in Delhi which represents the colonial structures built by Britishers. Anyone who lives is Delhi knows about this market very well. You can get all the Big Brand Shops and Showrooms at Connaught Place. </string>
+    <string name="shop_cp_address">Cannaught Place</string>
+    <string name="shop_cp_schedule">Mon-Sun 11:00-21:00</string>
+
+    <string name="sight_rf_name">Red Fort</string>
+    <string name="sight_rf_description">Adding to the list of majestic monuments in Delhi, there is Red Fort. It is also a UNESCO WORLD HERITAGE SITE. It served as the residence for Mughal Emperors for nearly 200 years. The surviving structures of the fort are its walls and ramparts, the main gates, the audience halls and the imperial apartments.</string>
+    
+    <string name="sight_rb_name">Rashtrapati Bhawan</string>
+    <string name="sight_rb_description">The President’s residence is one place you better not miss. The mansion is open to tourists for visit on Friday, Saturday and Sunday. The Mughal Gardens with two channels and energetic fountains add to the beauty of the place. They are open to the public from February- March every year.</string>
+
+    <string name="sight_qm_name">Qutub Minar</string>
+    <string name="sight_qm_description">Qutub Minar is the second tallest minar in India. It has been declared as a UNESCO Heritage Site. At the foot of the tower stands a mosque which is the first mosque built in India. It has a 7 m iron pillar in the courtyard with a fascinating saying attached to it. It is said that if you can encircle it with your hands while standing with your back to it your wish will be fulfilled.</string>
+
+    <string name="sight_ig_name">India Gate</string>
+    <string name="sight_ig_description">Everyone knows of the glorious India Gate! Round the year one can see people picnicking or just enjoying a nice walk around the area. There are beautiful fountains around to make the area nice and cozy. If you happen to come around the October-November period do sign up for the Airtel Half Marathon; an early morning run at Raj Path  is bound to stay etched in your memory.</string>
+    
+    <string name="sight_nd_name">Nizamudin Dargah</string>
+    <string name="sight_nd_description">The Dargah is one of the most sacred mausoleums in India.A secret tunnel was discovered by The Aga Khan Trust for Culture and Archaeological Survey of India (ASI) which linked Nizammudin Dargah to Nizammudin Ki Baoli. The Baoli has a wooden base and a well which intact even after 800 years. The water of the Baoli is considered holy by pilgrims.</string>
+
+    <string name="info_dm_name">Delhi Metro</string>
+    <string name="info_dm_description">The Delhi Metro is a metro system serving Delhi and its satellite cities of Faridabad, Gurugram, Noida and Ghaziabad in National Capital Region in India. Delhi Metro Rail Corporation Limited (DMRC), a state-owned company with equal equity participation from Government of India and Government of Delhi, built and operates the Delhi Metro.</string>
+
+    <string name="info_cs_name">24/7 Convenience Store </string>
+    <string name="info_cs_description">
+The Twenty Four Seven Convenience Stores are one of India’s premiere and New Delhi’s only organised retail chain in the ‘round-the-clock’ convenience store format.There are over 45 Twenty Four Seven stores in Delhi NCR region now. The plan is to open 500 stores across the country in the next couple of years with the rollout of a franchisee model.</string>
+    
+</resources>
+
